@@ -1,2 +1,3 @@
 # pds
-probabilist data structure for rust
+
+probability data structure for rust
